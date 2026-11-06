@@ -3,7 +3,7 @@
   "scope": "numerical reanalysis only",
   "source_branch": "main",
   "source_repository_visibility": "public",
-  "public_release": "GitHub repository published; v1.0.0 release pending",
+  "public_release": "GitHub release v1.0.0 (see repository Releases page)",
   "code_license": "MIT",
   "numerical_data_license": "CC-BY-4.0",
   "files": {
