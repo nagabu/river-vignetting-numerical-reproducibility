@@ -1,9 +1,9 @@
 {
   "project": "RIVER",
   "scope": "numerical reanalysis only",
-  "source_branch": "publication-candidate-numerical-v1",
-  "source_repository_visibility": "private",
-  "public_release": "NOT_PERFORMED",
+  "source_branch": "main",
+  "source_repository_visibility": "public",
+  "public_release": "GitHub repository published; v1.0.0 release pending",
   "code_license": "MIT",
   "numerical_data_license": "CC-BY-4.0",
   "files": {
@@ -20,8 +20,8 @@
       "bytes": 863
     },
     "README.md": {
-      "sha256": "9b4be8ca9d97e676cab4ecb8585260d3fc3cd58dae6df35c31127534b01286e3",
-      "bytes": 3594
+      "sha256": "6a78eff9518bad1072a5b13f23ffaf2ac3265beecd6fede89e18cbc2edd035b7",
+      "bytes": 3634
     },
     "release_data/133_all_primary_statistical_comparisons.csv": {
       "sha256": "ca46aa5b4159c6da7f12ea039071adf0e0c0c06944b5e83c66c748503067c95a",
