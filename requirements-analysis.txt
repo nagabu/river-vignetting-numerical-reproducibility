@@ -1,0 +1,3 @@
+# For regeneration of Figure 3 numeric source from released seed-level CSV.
+# Paper-experiment training dependencies must be separately reconstructed from its environment.
+scipy

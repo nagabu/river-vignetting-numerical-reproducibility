@@ -1,0 +1,55 @@
+{
+  "project": "RIVER",
+  "scope": "numerical reanalysis only",
+  "source_branch": "publication-candidate-numerical-v1",
+  "source_repository_visibility": "private",
+  "public_release": "NOT_PERFORMED",
+  "code_license": "MIT",
+  "numerical_data_license": "CC-BY-4.0",
+  "files": {
+    "CITATION.cff": {
+      "sha256": "39c93a998b7115d5c484fd4f6490530869fa30f1c45507d79ac58544f9ec57b4",
+      "bytes": 395
+    },
+    "LICENSE": {
+      "sha256": "add932f2be2c7bee1b78c4f052bda40975b6cb94de81970faf026bc72bc95f1d",
+      "bytes": 1072
+    },
+    "LICENSE-DATA.md": {
+      "sha256": "98fe54b4fd90ac64f6ce260ed7fa4e00af9ab1cbc427ce68cd2c8a15bb6da74f",
+      "bytes": 863
+    },
+    "README.md": {
+      "sha256": "9b4be8ca9d97e676cab4ecb8585260d3fc3cd58dae6df35c31127534b01286e3",
+      "bytes": 3594
+    },
+    "release_data/133_all_primary_statistical_comparisons.csv": {
+      "sha256": "ca46aa5b4159c6da7f12ea039071adf0e0c0c06944b5e83c66c748503067c95a",
+      "bytes": 14451
+    },
+    "release_data/139_exposure_curve_6level_primary5_summary.csv": {
+      "sha256": "ddad5d62f211591a533d0223b9b0cc8f3409026f069776366df98690a09eb6b0",
+      "bytes": 9887
+    },
+    "release_data/139_seed_level_6level_primary5_metrics.csv": {
+      "sha256": "6afe198fac376c2e2a4cd5ef87c690535a8c276d3febcdb4e66d72c2f55800ec",
+      "bytes": 22788
+    },
+    "release_data/140_upper_bound_50_to_64p3_comparison.csv": {
+      "sha256": "aaed6a87abe49e26ff44f2d380eb3a06b40a82f3591b47e277ac7864e0c9eec9",
+      "bytes": 3165
+    },
+    "requirements-analysis.txt": {
+      "sha256": "b246c1c2c61650410861b789655b997cbdc740be27b7085685719f8235d14c0b",
+      "bytes": 178
+    },
+    "tools/reproduce_figure3_data.py": {
+      "sha256": "94833390a35011fc1b99575e19af965867b462cc3ebf7f6c12cccd2a0c803e20",
+      "bytes": 2998
+    },
+    "tools/reproduce_primary_statistics.py": {
+      "sha256": "4b93070ba9513993eaf009c7f130aef47fecff7ed91f06d4c1095eebefe8c03c",
+      "bytes": 8508
+    }
+  }
+}

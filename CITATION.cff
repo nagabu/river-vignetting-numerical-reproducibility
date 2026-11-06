@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use the numerical analysis package, please cite the related RIVER article and this release."
+title: "RIVER: numerical reproducibility materials for vignetting-associated dermoscopic segmentation analysis"
+authors:
+  - family-names: Nagaoka
+    given-names: Takashi
+version: 1.0.0
+# Publication year, article DOI and Zenodo DOI are omitted until real release.
