@@ -1,6 +1,6 @@
 # RIVER — numerical reproducibility package
 
-**Scope:** RIVER's published numerical segmentation results, Figure 3 numeric
+**Scope:** RIVER's numerical segmentation results, Figure 3 numeric
 source and paired-seed statistical comparison checks; not end-to-end model
 retraining. The manuscript associated with this package is the November 2,
 2026 version: *Vignetting-Associated Differences in Dermoscopic Lesion
@@ -68,6 +68,6 @@ conversion procedure.
 - Four original numerical CSV datasets: CC BY 4.0 (`LICENSE-DATA.md`).
 - Third-party dermoscopic datasets: **not included or relicensed**.
 
-For citation, use `CITATION.cff` and, when a DOI is available, cite the
-published article and archived package. No DOI has been assigned in this
-prepublication candidate.
+For citation, use `CITATION.cff` and the version-specific Zenodo DOI once
+the linked GitHub Release has been archived. The associated journal manuscript
+has not yet been published; no journal-article DOI is claimed here.
